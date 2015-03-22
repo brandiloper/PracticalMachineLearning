@@ -1,7 +1,6 @@
----
-title: Quanitifying Accuracy of Weight Lifting Exercise  
-output: html_document
----
+
+#Quanitifying Accuracy of Weight Lifting Exercise
+
 
 ### Executive Summary
 
