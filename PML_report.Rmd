@@ -1,5 +1,5 @@
 ---
-title: Quantifying Accuracy of Weight Lifting Exercise
+title: "Quantifying Accuracy of Weight Lifting Exercise"
 output: html_document
 ---
 
